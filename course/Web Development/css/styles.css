@@ -1,0 +1,47 @@
+
+body{
+    background-color: gainsboro;
+}
+
+h1 {
+    color: darkgray;
+}
+
+h3 {
+    color: darkgray;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 30px;
+}
+  
+
+html {
+    scrollbar-width: normal;
+    scrollbar-color: #777 #555;
+
+}
+
+html::-webkit-scrollbar{
+    width: 10px;
+
+}
+
+html::-webkit-scrollbar-thumb:hover{
+    background-color: #7775;
+}
+
+
+html::-webkit-scrollbar-track{
+    background-color: #555;
+}
+
+body {
+    background-color: darkslategray;
+    color: #ccc;
+
+}
